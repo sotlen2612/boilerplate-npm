@@ -1,5 +1,7 @@
 {
+	"author": "Sotirios Lentzios",
 	"name": "fcc-learn-npm-package-json",
+	"description": "My first ever try to mash with github",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
